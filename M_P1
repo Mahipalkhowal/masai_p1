@@ -1,0 +1,2 @@
+a="masai school";
+console.log(a)
